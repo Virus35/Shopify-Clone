@@ -1,4 +1,4 @@
-## 🔗Shopify Clone
+## 🔗 Shopify Clone
 [https://vishal-shopify-clone.netlify.app/](https://vishal-shopify-clone.netlify.app/)
 
 
